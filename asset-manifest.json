@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petProj3-birthday-reminder/static/css/main.bc7d6362.chunk.css",
+    "main.js": "/petProj3-birthday-reminder/static/js/main.598d3bd6.chunk.js",
+    "main.js.map": "/petProj3-birthday-reminder/static/js/main.598d3bd6.chunk.js.map",
+    "runtime-main.js": "/petProj3-birthday-reminder/static/js/runtime-main.e34870af.js",
+    "runtime-main.js.map": "/petProj3-birthday-reminder/static/js/runtime-main.e34870af.js.map",
+    "static/js/2.37fafd01.chunk.js": "/petProj3-birthday-reminder/static/js/2.37fafd01.chunk.js",
+    "static/js/2.37fafd01.chunk.js.map": "/petProj3-birthday-reminder/static/js/2.37fafd01.chunk.js.map",
+    "index.html": "/petProj3-birthday-reminder/index.html",
+    "static/css/main.bc7d6362.chunk.css.map": "/petProj3-birthday-reminder/static/css/main.bc7d6362.chunk.css.map",
+    "static/js/2.37fafd01.chunk.js.LICENSE.txt": "/petProj3-birthday-reminder/static/js/2.37fafd01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34870af.js",
+    "static/js/2.37fafd01.chunk.js",
+    "static/css/main.bc7d6362.chunk.css",
+    "static/js/main.598d3bd6.chunk.js"
+  ]
+}
