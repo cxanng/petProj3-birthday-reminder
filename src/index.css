@@ -1,0 +1,68 @@
+body {
+  background-color: #F28AB2;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow:  0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.App {
+  width: fit-content;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: azure;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+}
+
+.list {
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  border-radius: 5px;
+}
+
+.list-item {
+  display: flex;
+  margin: 1em;
+}
+
+.info {
+  margin: 1em;
+}
+
+.name {
+  font-size: larger;
+}
+
+.age {
+  color: #333638;
+}
+
+button {
+  width: 70%;
+  margin: auto;
+  padding: 1em 2em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+  border: none;
+  background-color: #F28AB2;
+  box-shadow: 5px 10px 8px #F1E6EA;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
